@@ -1,0 +1,6 @@
+CURSO PWA
+---------
+Requisitos:
+	Google Chrome
+	Node JS
+	Git

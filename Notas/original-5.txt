@@ -1,0 +1,3 @@
+
+git config --global user.name "Pedro Ibarra"
+git config --global user.email "pibarra@classicsoft.com.py"
